@@ -1,0 +1,20 @@
+{
+    "name": "responsive-form",
+    "version": "0.0.1",
+    "title": "Responsive Form",
+    "description": "Practice your form building skills by replicating this web page",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "CSS",
+        "Form Elements",
+        "HTML",
+        "JavaScript"
+    ],
+    "supplementalFiles": [
+        "breakpoint1.png",
+        "breakpoint2.png",
+        "breakpoint3.png"
+    ]
+}
