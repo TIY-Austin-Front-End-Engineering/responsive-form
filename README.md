@@ -33,8 +33,8 @@ After completing this assignment, you be able to effectively use the following H
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/style.css`
-  * `dist/index.html`
+  * `styles/main.scss`
+  * `index.html`
 
 ### Requirements
 
